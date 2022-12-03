@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/lumix-app/static/css/main.3e3f9219.css",
+    "main.js": "/lumix-app/static/js/main.93b6193c.js",
+    "index.html": "/lumix-app/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3e3f9219.css",
+    "static/js/main.93b6193c.js"
+  ]
+}
